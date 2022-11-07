@@ -1,6 +1,6 @@
 # Mern.Project
 MERN
-# Mern-stack-project-
+# Mern-stack-project
 
 ## MERN Stack
 
